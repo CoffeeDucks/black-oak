@@ -1,0 +1,2 @@
+['IMX/BUSD',
+ 'GMX/BUSD']
