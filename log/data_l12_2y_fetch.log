@@ -1,0 +1,2680 @@
+[INFO] Started to fetch data for ETH/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for BNB/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for ADA/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for SOL/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for MATIC/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for DOT/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for TRX/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for AVAX/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for ATOM/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for NEAR/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for ALGO/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for FLOW/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for LUNC/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for VET/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for ICP/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for XTZ/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for EOS/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for NEO/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for KLAY/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for FTM/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for KAVA/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for WAVES/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for CELO/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for KSM/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for LUNA/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for ROSE/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for KDA/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for ONE/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for OMG/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for FLUX/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for OP/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for ONT/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for GLMR/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for WAXP/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for IMX/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for SKL/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for ASTR/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for CKB/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for SSV/BUSD with a resolution of 1h from exchange binance
+[INFO] Started to fetch data for MOVR/BUSD with a resolution of 1h from exchange binance
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for LUNC/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for OP/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for GLMR/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for IMX/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for ASTR/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for SSV/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for KDA/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1593561600000 (2020-07-01 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1602068400000 (2020-10-07 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNC/BUSDand timestamp 1655215200000 (2022-06-14 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1640430000000 (2021-12-25 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OP/BUSDand timestamp 1655384400000 (2022-06-16 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1622008800000 (2021-05-26 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for GLMR/BUSDand timestamp 1643230800000 (2022-01-26 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1631012400000 (2021-09-07 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1628978400000 (2021-08-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1625835600000 (2021-07-09 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for IMX/BUSDand timestamp 1643122800000 (2022-01-25 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1624287600000 (2021-06-21 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1608098400000 (2020-12-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1624287600000 (2021-06-21 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ASTR/BUSDand timestamp 1647360000000 (2022-03-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1612976400000 (2021-02-10 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1599105600000 (2020-09-03 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1636815600000 (2021-11-13 15:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1603965600000 (2020-10-29 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1600358400000 (2020-09-17 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1637665200000 (2021-11-23 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1599145200000 (2020-09-03 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1607090400000 (2020-12-04 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KDA/BUSDand timestamp 1648310400000 (2022-03-26 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1594875600000 (2020-07-16 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1604761200000 (2020-11-07 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1615399200000 (2021-03-10 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1603382400000 (2020-10-22 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNC/BUSDand timestamp 1656529200000 (2022-06-29 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1641744000000 (2022-01-09 16:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1623322800000 (2021-06-10 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for GLMR/BUSDand timestamp 1644544800000 (2022-02-11 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1632326400000 (2021-09-22 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1630292400000 (2021-08-30 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1627149600000 (2021-07-24 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for IMX/BUSDand timestamp 1644436800000 (2022-02-09 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1625601600000 (2021-07-06 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1609430400000 (2020-12-31 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1625601600000 (2021-07-06 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ASTR/BUSDand timestamp 1648674000000 (2022-03-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1614294000000 (2021-02-25 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1600419600000 (2020-09-18 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1638129600000 (2021-11-28 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1605279600000 (2020-11-13 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1601672400000 (2020-10-02 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1638979200000 (2021-12-08 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1600459200000 (2020-09-18 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1608404400000 (2020-12-19 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KDA/BUSDand timestamp 1649624400000 (2022-04-10 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1596189600000 (2020-07-31 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1606075200000 (2020-11-22 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1616713200000 (2021-03-25 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1604696400000 (2020-11-06 21:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1643058000000 (2022-01-24 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1624636800000 (2021-06-25 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for GLMR/BUSDand timestamp 1645858800000 (2022-02-26 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1633647600000 (2021-10-07 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1631606400000 (2021-09-14 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1628463600000 (2021-08-08 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for IMX/BUSDand timestamp 1645750800000 (2022-02-25 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1626915600000 (2021-07-22 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1610744400000 (2021-01-15 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1626915600000 (2021-07-22 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ASTR/BUSDand timestamp 1649988000000 (2022-04-15 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1615611600000 (2021-03-13 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1601733600000 (2020-10-03 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1639443600000 (2021-12-14 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1606593600000 (2020-11-28 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1602986400000 (2020-10-18 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1640293200000 (2021-12-23 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1601773200000 (2020-10-04 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1609736400000 (2021-01-04 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KDA/BUSDand timestamp 1650938400000 (2022-04-26 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1597503600000 (2020-08-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1607392800000 (2020-12-08 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1618027200000 (2021-04-10 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1625950800000 (2021-07-10 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1606010400000 (2020-11-22 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1644372000000 (2022-02-09 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for GLMR/BUSDand timestamp 1647172800000 (2022-03-13 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1634961600000 (2021-10-23 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1632927600000 (2021-09-29 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for IMX/BUSDand timestamp 1647064800000 (2022-03-12 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1629792000000 (2021-08-24 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1628229600000 (2021-08-06 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1612058400000 (2021-01-31 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1628229600000 (2021-08-06 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ASTR/BUSDand timestamp 1651302000000 (2022-04-30 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1640757600000 (2021-12-29 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1616925600000 (2021-03-28 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1603047600000 (2020-10-18 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1607911200000 (2020-12-14 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1641607200000 (2022-01-08 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1604300400000 (2020-11-02 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1603087200000 (2020-10-19 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1611050400000 (2021-01-19 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KDA/BUSDand timestamp 1652252400000 (2022-05-11 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1608721200000 (2020-12-23 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1619359200000 (2021-04-25 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1598817600000 (2020-08-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1627264800000 (2021-07-26 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1607328000000 (2020-12-07 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1645686000000 (2022-02-24 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for GLMR/BUSDand timestamp 1648486800000 (2022-03-28 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1634241600000 (2021-10-14 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for IMX/BUSDand timestamp 1648378800000 (2022-03-27 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1636275600000 (2021-11-07 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1631106000000 (2021-09-08 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1629558000000 (2021-08-21 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1613376000000 (2021-02-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1629558000000 (2021-08-21 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ASTR/BUSDand timestamp 1652616000000 (2022-05-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1642071600000 (2022-01-13 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1618239600000 (2021-04-12 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1604361600000 (2020-11-03 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1609243200000 (2020-12-29 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1642921200000 (2022-01-23 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1605614400000 (2020-11-17 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1604401200000 (2020-11-03 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1612364400000 (2021-02-03 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KDA/BUSDand timestamp 1653566400000 (2022-05-26 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1610038800000 (2021-01-07 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1620673200000 (2021-05-10 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1600131600000 (2020-09-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1628578800000 (2021-08-10 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1608656400000 (2020-12-22 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1647000000000 (2022-03-11 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for GLMR/BUSDand timestamp 1649800800000 (2022-04-12 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1635555600000 (2021-10-30 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1637589600000 (2021-11-22 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for IMX/BUSDand timestamp 1649692800000 (2022-04-11 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1630872000000 (2021-09-05 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1632420000000 (2021-09-23 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1614690000000 (2021-03-02 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1630872000000 (2021-09-05 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1643385600000 (2022-01-28 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ASTR/BUSDand timestamp 1653930000000 (2022-05-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1605675600000 (2020-11-18 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1619571600000 (2021-04-28 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1610557200000 (2021-01-13 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1644235200000 (2022-02-07 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1605715200000 (2020-11-18 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1606932000000 (2020-12-02 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1613682000000 (2021-02-18 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1611352800000 (2021-01-22 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KDA/BUSDand timestamp 1654880400000 (2022-06-10 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1621987200000 (2021-05-26 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1601445600000 (2020-09-30 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1629907200000 (2021-08-25 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1609974000000 (2021-01-06 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1648314000000 (2022-03-26 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for GLMR/BUSDand timestamp 1651114800000 (2022-04-28 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1636869600000 (2021-11-14 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for IMX/BUSDand timestamp 1651006800000 (2022-04-26 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1632186000000 (2021-09-21 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1638903600000 (2021-12-07 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1616007600000 (2021-03-17 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1633741200000 (2021-10-09 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1632186000000 (2021-09-21 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1644699600000 (2022-02-12 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ASTR/BUSDand timestamp 1655244000000 (2022-06-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1606993200000 (2020-12-03 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1620885600000 (2021-05-13 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1611871200000 (2021-01-28 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1645549200000 (2022-02-22 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1607032800000 (2020-12-03 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1608246000000 (2020-12-17 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1614996000000 (2021-03-06 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1612666800000 (2021-02-07 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KDA/BUSDand timestamp 1656194400000 (2022-06-25 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1623301200000 (2021-06-10 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1602759600000 (2020-10-15 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1631221200000 (2021-09-09 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1611288000000 (2021-01-22 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1649628000000 (2022-04-10 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for GLMR/BUSDand timestamp 1652428800000 (2022-05-13 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1638183600000 (2021-11-29 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for IMX/BUSDand timestamp 1652320800000 (2022-05-12 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1633507200000 (2021-10-06 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1640217600000 (2021-12-23 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1617321600000 (2021-04-02 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1635055200000 (2021-10-24 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1633507200000 (2021-10-06 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1646013600000 (2022-02-28 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ASTR/BUSDand timestamp 1656558000000 (2022-06-30 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1608307200000 (2020-12-18 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1622199600000 (2021-05-28 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1613188800000 (2021-02-13 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1646863200000 (2022-03-09 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1608346800000 (2020-12-19 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1609578000000 (2021-01-02 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1616313600000 (2021-03-21 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1613984400000 (2021-02-22 09:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1624615200000 (2021-06-25 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1632535200000 (2021-09-25 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1612602000000 (2021-02-06 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1604073600000 (2020-10-30 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1650942000000 (2022-04-26 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for GLMR/BUSDand timestamp 1653742800000 (2022-05-28 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1639497600000 (2021-12-14 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for IMX/BUSDand timestamp 1653634800000 (2022-05-27 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1634821200000 (2021-10-21 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1641531600000 (2022-01-07 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1618635600000 (2021-04-17 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1636369200000 (2021-11-08 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1634821200000 (2021-10-21 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1647327600000 (2022-03-15 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1609639200000 (2021-01-03 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1623513600000 (2021-06-12 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1614502800000 (2021-02-28 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1648177200000 (2022-03-25 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1609678800000 (2021-01-03 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1610892000000 (2021-01-17 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1617627600000 (2021-04-05 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1615302000000 (2021-03-09 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1625929200000 (2021-07-10 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1633856400000 (2021-10-10 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1613919600000 (2021-02-21 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1605387600000 (2020-11-14 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1652256000000 (2022-05-11 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for GLMR/BUSDand timestamp 1655056800000 (2022-06-12 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1640811600000 (2021-12-29 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for IMX/BUSDand timestamp 1654948800000 (2022-06-11 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1636135200000 (2021-11-05 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1642845600000 (2022-01-22 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1619967600000 (2021-05-02 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1637683200000 (2021-11-23 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1636135200000 (2021-11-05 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1648641600000 (2022-03-30 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1610953200000 (2021-01-18 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1624827600000 (2021-06-27 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1615820400000 (2021-03-15 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1649491200000 (2022-04-09 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1610992800000 (2021-01-18 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1612206000000 (2021-02-01 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1618948800000 (2021-04-20 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1616616000000 (2021-03-24 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1627243200000 (2021-07-25 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1635170400000 (2021-10-25 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1615237200000 (2021-03-08 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1606701600000 (2020-11-30 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1653570000000 (2022-05-26 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for GLMR/BUSDand timestamp 1656370800000 (2022-06-27 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1642125600000 (2022-01-14 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for IMX/BUSDand timestamp 1656262800000 (2022-06-26 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1637449200000 (2021-11-20 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1644159600000 (2022-02-06 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1621281600000 (2021-05-17 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1638997200000 (2021-12-08 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1637449200000 (2021-11-20 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1649955600000 (2022-04-14 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1612267200000 (2021-02-02 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1626141600000 (2021-07-13 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1617134400000 (2021-03-30 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1650805200000 (2022-04-24 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1612306800000 (2021-02-02 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1613523600000 (2021-02-17 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1620273600000 (2021-05-06 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1617930000000 (2021-04-09 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1628557200000 (2021-08-10 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1636484400000 (2021-11-09 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1616551200000 (2021-03-24 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1608019200000 (2020-12-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1654884000000 (2022-06-10 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1643439600000 (2022-01-29 07:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1638763200000 (2021-12-06 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1645473600000 (2022-02-21 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1622595600000 (2021-06-02 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1640311200000 (2021-12-24 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1638763200000 (2021-12-06 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1651269600000 (2022-04-29 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1613584800000 (2021-02-17 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1627455600000 (2021-07-28 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1618448400000 (2021-04-15 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1652119200000 (2022-05-09 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1613624400000 (2021-02-18 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1614837600000 (2021-03-04 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1621587600000 (2021-05-21 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1619251200000 (2021-04-24 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1629885600000 (2021-08-25 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1637798400000 (2021-11-25 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1617865200000 (2021-04-08 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1609351200000 (2020-12-30 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLUX/BUSDand timestamp 1656198000000 (2022-06-25 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1644753600000 (2022-02-13 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1640077200000 (2021-12-21 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1646787600000 (2022-03-09 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1623909600000 (2021-06-17 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1641625200000 (2022-01-08 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1640077200000 (2021-12-21 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1652583600000 (2022-05-15 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1614898800000 (2021-03-04 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1628769600000 (2021-08-12 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1619780400000 (2021-04-30 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1653433200000 (2022-05-24 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1614938400000 (2021-03-05 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1616155200000 (2021-03-19 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1622901600000 (2021-06-05 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1620576000000 (2021-05-09 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1631199600000 (2021-09-09 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1619186400000 (2021-04-23 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1639112400000 (2021-12-10 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1610665200000 (2021-01-14 23:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1646067600000 (2022-02-28 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1641391200000 (2022-01-05 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1648101600000 (2022-03-24 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1625223600000 (2021-07-02 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1642939200000 (2022-01-23 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1641391200000 (2022-01-05 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1653897600000 (2022-05-30 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1616216400000 (2021-03-20 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1630098000000 (2021-08-27 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1621094400000 (2021-05-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1654747200000 (2022-06-09 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1616256000000 (2021-03-20 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1617469200000 (2021-04-03 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1624215600000 (2021-06-20 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1621890000000 (2021-05-24 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1632513600000 (2021-09-24 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1620511200000 (2021-05-08 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1640426400000 (2021-12-25 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1611979200000 (2021-01-30 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1647381600000 (2022-03-15 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1642705200000 (2022-01-20 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1649415600000 (2022-04-08 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1626537600000 (2021-07-17 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1644253200000 (2022-02-07 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1642705200000 (2022-01-20 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1655211600000 (2022-06-14 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1617530400000 (2021-04-04 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1622408400000 (2021-05-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MOVR/BUSDand timestamp 1656061200000 (2022-06-24 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1631412000000 (2021-09-12 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1617570000000 (2021-04-04 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1618783200000 (2021-04-18 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1625529600000 (2021-07-06 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1623204000000 (2021-06-09 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1633834800000 (2021-10-10 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1621825200000 (2021-05-24 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1641740400000 (2022-01-09 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1613296800000 (2021-02-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1648695600000 (2022-03-31 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1644019200000 (2022-02-05 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1650729600000 (2022-04-23 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1627851600000 (2021-08-01 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1645567200000 (2022-02-22 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1644019200000 (2022-02-05 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CELO/BUSDand timestamp 1656525600000 (2022-06-29 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1618844400000 (2021-04-19 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1623722400000 (2021-06-15 02:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1632726000000 (2021-09-27 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1618884000000 (2021-04-20 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1620115200000 (2021-05-04 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1626843600000 (2021-07-21 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1624518000000 (2021-06-24 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1635148800000 (2021-10-25 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1623139200000 (2021-06-08 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1643054400000 (2022-01-24 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1614610800000 (2021-03-01 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1650009600000 (2022-04-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1645333200000 (2022-02-20 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1652043600000 (2022-05-08 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1629180000000 (2021-08-17 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1646881200000 (2022-03-10 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1645333200000 (2022-02-20 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1620176400000 (2021-05-05 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1625036400000 (2021-06-30 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1634047200000 (2021-10-12 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1620216000000 (2021-05-05 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1621429200000 (2021-05-19 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1628157600000 (2021-08-05 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1625832000000 (2021-07-09 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1636462800000 (2021-11-09 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1624453200000 (2021-06-23 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1644368400000 (2022-02-09 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1615928400000 (2021-03-16 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1651323600000 (2022-04-30 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1646647200000 (2022-03-07 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1653357600000 (2022-05-24 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1630494000000 (2021-09-01 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1648195200000 (2022-03-25 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1646647200000 (2022-03-07 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1621490400000 (2021-05-20 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1626350400000 (2021-07-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1635361200000 (2021-10-27 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1621530000000 (2021-05-20 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1622743200000 (2021-06-03 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1629486000000 (2021-08-20 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1627146000000 (2021-07-24 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1637776800000 (2021-11-24 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1645682400000 (2022-02-24 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1625767200000 (2021-07-08 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1617242400000 (2021-04-01 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1652637600000 (2022-05-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1647961200000 (2022-03-22 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1654671600000 (2022-06-08 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1631808000000 (2021-09-16 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1649509200000 (2022-04-09 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1647961200000 (2022-03-22 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1622804400000 (2021-06-04 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1627664400000 (2021-07-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1636675200000 (2021-11-12 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1622844000000 (2021-06-04 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1624057200000 (2021-06-18 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1630800000000 (2021-09-05 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1628460000000 (2021-08-08 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1639090800000 (2021-12-09 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1646996400000 (2022-03-11 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1627081200000 (2021-07-23 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1618556400000 (2021-04-16 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1653951600000 (2022-05-30 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1649275200000 (2022-04-06 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAXP/BUSDand timestamp 1655985600000 (2022-06-23 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1633129200000 (2021-10-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1650823200000 (2022-04-24 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1649275200000 (2022-04-06 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1624118400000 (2021-06-19 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1628992800000 (2021-08-15 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1637989200000 (2021-11-27 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1624158000000 (2021-06-20 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1625371200000 (2021-07-04 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1632114000000 (2021-09-20 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1629788400000 (2021-08-24 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1640404800000 (2021-12-25 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1648310400000 (2022-03-26 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1628395200000 (2021-08-08 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1619888400000 (2021-05-01 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1655265600000 (2022-06-15 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1650589200000 (2022-04-22 01:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1634443200000 (2021-10-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1652137200000 (2022-05-09 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1650589200000 (2022-04-22 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1625432400000 (2021-07-04 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1630306800000 (2021-08-30 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1639303200000 (2021-12-12 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1625472000000 (2021-07-05 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1626685200000 (2021-07-19 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1633435200000 (2021-10-05 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1631102400000 (2021-09-08 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1641718800000 (2022-01-09 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1649624400000 (2022-04-10 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1629723600000 (2021-08-23 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1621202400000 (2021-05-16 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FLOW/BUSDand timestamp 1656579600000 (2022-06-30 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1651903200000 (2022-05-07 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1635757200000 (2021-11-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1653451200000 (2022-05-25 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1651903200000 (2022-05-07 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1626746400000 (2021-07-20 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1631620800000 (2021-09-14 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1640617200000 (2021-12-27 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1626786000000 (2021-07-20 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1627999200000 (2021-08-03 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1634749200000 (2021-10-20 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1632416400000 (2021-09-23 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1643032800000 (2022-01-24 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1650938400000 (2022-04-26 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1631037600000 (2021-09-07 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1622516400000 (2021-06-01 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1653217200000 (2022-05-22 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1637071200000 (2021-11-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1654765200000 (2022-06-09 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1653217200000 (2022-05-22 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1628060400000 (2021-08-04 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1632942000000 (2021-09-29 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1641931200000 (2022-01-11 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1628100000000 (2021-08-04 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1629327600000 (2021-08-18 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1636063200000 (2021-11-04 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1633737600000 (2021-10-09 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1644346800000 (2022-02-08 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1652252400000 (2022-05-11 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1632351600000 (2021-09-22 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1623830400000 (2021-06-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1654531200000 (2022-06-06 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1638385200000 (2021-12-01 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KLAY/BUSDand timestamp 1656079200000 (2022-06-24 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1654531200000 (2022-06-06 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1629388800000 (2021-08-19 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1634256000000 (2021-10-15 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1643245200000 (2022-01-27 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1629428400000 (2021-08-20 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1630641600000 (2021-09-03 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1637377200000 (2021-11-20 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1635051600000 (2021-10-24 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1645660800000 (2022-02-24 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1653566400000 (2022-05-26 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1633672800000 (2021-10-08 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1625144400000 (2021-07-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for FTM/BUSDand timestamp 1655845200000 (2022-06-21 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1639699200000 (2021-12-17 00:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KAVA/BUSDand timestamp 1655845200000 (2022-06-21 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1630702800000 (2021-09-03 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1635570000000 (2021-10-30 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1644559200000 (2022-02-11 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1630742400000 (2021-09-04 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1631955600000 (2021-09-18 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1636365600000 (2021-11-08 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1638691200000 (2021-12-05 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1646974800000 (2022-03-11 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1654880400000 (2022-06-10 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1634986800000 (2021-10-23 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1626458400000 (2021-07-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1641013200000 (2022-01-01 05:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1632016800000 (2021-09-19 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1636884000000 (2021-11-14 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1645873200000 (2022-02-26 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1632056400000 (2021-09-19 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1633276800000 (2021-10-03 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1637679600000 (2021-11-23 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1640005200000 (2021-12-20 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1648288800000 (2022-03-26 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ICP/BUSDand timestamp 1656194400000 (2022-06-25 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1636300800000 (2021-11-07 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1627772400000 (2021-07-31 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1642327200000 (2022-01-16 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1633338000000 (2021-10-04 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1638198000000 (2021-11-29 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1647187200000 (2022-03-13 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1633377600000 (2021-10-04 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1634590800000 (2021-10-18 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1638993600000 (2021-12-08 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1641319200000 (2022-01-04 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1649602800000 (2022-04-10 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1637614800000 (2021-11-22 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1629100800000 (2021-08-16 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1643641200000 (2022-01-31 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1634652000000 (2021-10-19 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1639512000000 (2021-12-14 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1648501200000 (2022-03-28 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1634691600000 (2021-10-20 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1635904800000 (2021-11-03 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1640307600000 (2021-12-24 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1642633200000 (2022-01-19 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1650916800000 (2022-04-25 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1638928800000 (2021-12-08 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1630414800000 (2021-08-31 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1644955200000 (2022-02-15 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1635966000000 (2021-11-03 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1640826000000 (2021-12-30 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1649815200000 (2022-04-13 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1636005600000 (2021-11-04 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1637218800000 (2021-11-18 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1641621600000 (2022-01-08 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1643947200000 (2022-02-04 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1652230800000 (2022-05-11 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1640242800000 (2021-12-23 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1631728800000 (2021-09-15 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1646269200000 (2022-03-03 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1637280000000 (2021-11-19 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1642140000000 (2022-01-14 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1651129200000 (2022-04-28 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1638532800000 (2021-12-03 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1637319600000 (2021-11-19 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1645261200000 (2022-02-19 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1642935600000 (2022-01-23 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1653544800000 (2022-05-26 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1641556800000 (2022-01-07 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1633050000000 (2021-10-01 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1647583200000 (2022-03-18 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1638594000000 (2021-12-04 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1643454000000 (2022-01-29 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1652443200000 (2022-05-13 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1639846800000 (2021-12-18 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1638633600000 (2021-12-04 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1646575200000 (2022-03-06 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1644249600000 (2022-02-07 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1654858800000 (2022-06-10 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1642870800000 (2022-01-22 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1634364000000 (2021-10-16 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1648897200000 (2022-04-02 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1639908000000 (2021-12-19 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1644768000000 (2022-02-13 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1653757200000 (2022-05-28 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1641160800000 (2022-01-02 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1639947600000 (2021-12-19 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1647889200000 (2022-03-21 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1645563600000 (2022-02-22 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for OMG/BUSDand timestamp 1656172800000 (2022-06-25 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1644184800000 (2022-02-06 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1635678000000 (2021-10-31 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1650211200000 (2022-04-17 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1641222000000 (2022-01-03 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1646082000000 (2022-02-28 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1655071200000 (2022-06-12 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1642474800000 (2022-01-18 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1641261600000 (2022-01-04 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1649203200000 (2022-04-06 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1646877600000 (2022-03-10 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1645498800000 (2022-02-22 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1636992000000 (2021-11-15 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1651525200000 (2022-05-02 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1642536000000 (2022-01-18 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1647396000000 (2022-03-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for CKB/BUSDand timestamp 1656385200000 (2022-06-28 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1643788800000 (2022-02-02 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1642575600000 (2022-01-19 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1650517200000 (2022-04-21 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1648191600000 (2022-03-25 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1646812800000 (2022-03-09 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1638306000000 (2021-11-30 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1652839200000 (2022-05-18 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1643850000000 (2022-02-03 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1648710000000 (2022-03-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1645102800000 (2022-02-17 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1643889600000 (2022-02-03 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1651831200000 (2022-05-06 10:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1649505600000 (2022-04-09 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1648126800000 (2022-03-24 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1639620000000 (2021-12-16 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1654153200000 (2022-06-02 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1645164000000 (2022-02-18 06:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1650024000000 (2022-04-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1646416800000 (2022-03-04 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1645203600000 (2022-02-18 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1653145200000 (2022-05-21 15:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1650819600000 (2022-04-24 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1649440800000 (2022-04-08 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1640934000000 (2021-12-31 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SKL/BUSDand timestamp 1655467200000 (2022-06-17 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1646478000000 (2022-03-05 11:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1651338000000 (2022-04-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1647730800000 (2022-03-19 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1646517600000 (2022-03-05 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1654459200000 (2022-06-05 20:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1652133600000 (2022-05-09 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1642248000000 (2022-01-15 12:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1650754800000 (2022-04-23 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1647792000000 (2022-03-20 16:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1652652000000 (2022-05-15 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1649044800000 (2022-04-04 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1647831600000 (2022-03-21 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ROSE/BUSDand timestamp 1655773200000 (2022-06-21 01:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1653447600000 (2022-05-25 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1643562000000 (2022-01-30 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1652068800000 (2022-05-09 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1649106000000 (2022-04-04 21:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1653966000000 (2022-05-31 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1650358800000 (2022-04-19 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1649145600000 (2022-04-05 08:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1654761600000 (2022-06-09 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1644876000000 (2022-02-14 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1653382800000 (2022-05-24 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1650420000000 (2022-04-20 02:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1655280000000 (2022-06-15 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1651672800000 (2022-05-04 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1650459600000 (2022-04-20 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONE/BUSDand timestamp 1656075600000 (2022-06-24 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1646190000000 (2022-03-02 03:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1654696800000 (2022-06-08 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1651734000000 (2022-05-05 07:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEAR/BUSDand timestamp 1656594000000 (2022-06-30 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1652986800000 (2022-05-19 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1651773600000 (2022-05-05 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1647504000000 (2022-03-17 08:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for AVAX/BUSDand timestamp 1656010800000 (2022-06-23 19:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1653048000000 (2022-05-20 12:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1654300800000 (2022-06-04 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1653105600000 (2022-05-21 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1648818000000 (2022-04-01 13:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1654362000000 (2022-06-04 17:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for KSM/BUSDand timestamp 1655614800000 (2022-06-19 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1654819200000 (2022-06-10 00:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1650132000000 (2022-04-16 18:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for DOT/BUSDand timestamp 1655676000000 (2022-06-19 22:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for LUNA/BUSDand timestamp 1656133200000 (2022-06-25 05:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1651446000000 (2022-05-01 23:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1652760000000 (2022-05-17 04:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for VET/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1654074000000 (2022-06-01 09:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for EOS/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ONT/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for XTZ/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ALGO/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for WAVES/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for TRX/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for MATIC/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for NEO/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for SOL/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ATOM/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ADA/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for BNB/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Start fetching 365 data points from binance for ETH/BUSDand timestamp 1655388000000 (2022-06-16 14:00:00)
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Received 365 data points
+[INFO] Received 365 data points

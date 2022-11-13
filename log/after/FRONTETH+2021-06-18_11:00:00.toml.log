@@ -1,0 +1,15 @@
+[INFO] Started to fetch data for FRONT/ETH with a resolution of 1h from exchange binance
+[INFO] Start fetching 365 data points from binance for FRONT/ETHand timestamp 1624014000000 (2021-06-18 11:00:00)
+[INFO] Received 1 data points
+[ERROR] Task exception was never retrieved
+future: <Task finished name='Task-7' coro=<DataFetcher.fetch_ohlvc_data() done, defined at /Users/seongil-heo/Workspace/Traum/black-oak/ohlcv/lib/data_fetcher.py:140> exception=IndexError('single positional indexer is out-of-bounds')>
+Traceback (most recent call last):
+  File "/Users/seongil-heo/Workspace/Traum/black-oak/ohlcv/lib/data_fetcher.py", line 234, in fetch_ohlvc_data
+    datetime.utcfromtimestamp(util.ms_timestamp_to_epoch_timestamp(int(ohlcv_ts['datetime'].iloc[-2])))
+  File "/opt/anaconda3/lib/python3.9/site-packages/pandas/core/indexing.py", line 967, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/opt/anaconda3/lib/python3.9/site-packages/pandas/core/indexing.py", line 1523, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/opt/anaconda3/lib/python3.9/site-packages/pandas/core/indexing.py", line 1455, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds

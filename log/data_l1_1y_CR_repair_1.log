@@ -1,0 +1,56 @@
+Given path data/ is a directory. Found 6 files.
+
+Loading file: data/BINANCE_EGLDBUSD_1h.csv
+Found 8766 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+8766 data points successfully written to data/BINANCE_EGLDBUSD_1h.csv
+
+
+Loading file: data/BINANCE_DOTBUSD_1h.csv
+Found 8766 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+8766 data points successfully written to data/BINANCE_DOTBUSD_1h.csv
+
+
+Loading file: data/BINANCE_AVAXBUSD_1h.csv
+Found 8766 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+8766 data points successfully written to data/BINANCE_AVAXBUSD_1h.csv
+
+
+Loading file: data/BINANCE_FETBUSD_1h.csv
+Found 6937 data points
+Date of first data point 2021-09-24 10:00:00
+Date of last data point 2022-07-10 10:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+6937 data points successfully written to data/BINANCE_FETBUSD_1h.csv
+
+
+Loading file: data/BINANCE_NEARBUSD_1h.csv
+Found 8766 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+8766 data points successfully written to data/BINANCE_NEARBUSD_1h.csv
+
+
+Loading file: data/BINANCE_CELOBUSD_1h.csv
+Found 6205 data points
+Date of first data point 2021-10-29 10:00:00
+Date of last data point 2022-07-14 22:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+6205 data points successfully written to data/BINANCE_CELOBUSD_1h.csv
+
+

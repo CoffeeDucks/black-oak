@@ -1,0 +1,236 @@
+Given path data/ is a directory. Found 26 files.
+
+Loading file: data/BINANCE_FTMBUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8766 data points successfully written to data/BINANCE_FTMBUSD_1h.csv
+
+
+Loading file: data/BINANCE_GLMRBUSD_1h.csv
+Found 4380 data points
+Date of first data point 2022-01-11 16:00:00
+Date of last data point 2022-07-13 03:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+4380 data points successfully written to data/BINANCE_GLMRBUSD_1h.csv
+
+
+Loading file: data/BINANCE_FLOWBUSD_1h.csv
+Found 8395 data points
+Date of first data point 2021-07-30 13:00:00
+Date of last data point 2022-07-15 13:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8401 data points successfully written to data/BINANCE_FLOWBUSD_1h.csv
+
+
+Loading file: data/BINANCE_IMXBUSD_1h.csv
+Found 4380 data points
+Date of first data point 2022-01-10 10:00:00
+Date of last data point 2022-07-11 21:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+4380 data points successfully written to data/BINANCE_IMXBUSD_1h.csv
+
+
+Loading file: data/BINANCE_DOTBUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8766 data points successfully written to data/BINANCE_DOTBUSD_1h.csv
+
+
+Loading file: data/BINANCE_MOVRBUSD_1h.csv
+Found 5840 data points
+Date of first data point 2021-11-08 06:00:00
+Date of last data point 2022-07-09 13:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+5840 data points successfully written to data/BINANCE_MOVRBUSD_1h.csv
+
+
+Loading file: data/BINANCE_KAVABUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8766 data points successfully written to data/BINANCE_KAVABUSD_1h.csv
+
+
+Loading file: data/BINANCE_KLAYBUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8766 data points successfully written to data/BINANCE_KLAYBUSD_1h.csv
+
+
+Loading file: data/BINANCE_AVAXBUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8766 data points successfully written to data/BINANCE_AVAXBUSD_1h.csv
+
+
+Loading file: data/BINANCE_FLUXBUSD_1h.csv
+Found 5110 data points
+Date of first data point 2021-12-10 06:00:00
+Date of last data point 2022-07-11 03:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+5110 data points successfully written to data/BINANCE_FLUXBUSD_1h.csv
+
+
+Loading file: data/BINANCE_KSMBUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8766 data points successfully written to data/BINANCE_KSMBUSD_1h.csv
+
+
+Loading file: data/BINANCE_LUNCBUSD_1h.csv
+Found 1095 data points
+Date of first data point 2022-05-30 09:00:00
+Date of last data point 2022-07-14 23:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+1095 data points successfully written to data/BINANCE_LUNCBUSD_1h.csv
+
+
+Loading file: data/BINANCE_ASTRBUSD_1h.csv
+Found 3285 data points
+Date of first data point 2022-02-28 11:00:00
+Date of last data point 2022-07-15 07:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+3285 data points successfully written to data/BINANCE_ASTRBUSD_1h.csv
+
+
+Loading file: data/BINANCE_KDABUSD_1h.csv
+Found 2920 data points
+Date of first data point 2022-03-11 11:00:00
+Date of last data point 2022-07-11 02:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+2920 data points successfully written to data/BINANCE_KDABUSD_1h.csv
+
+
+Loading file: data/BINANCE_OMGBUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8766 data points successfully written to data/BINANCE_OMGBUSD_1h.csv
+
+
+Loading file: data/BINANCE_ONEBUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8766 data points successfully written to data/BINANCE_ONEBUSD_1h.csv
+
+
+Loading file: data/BINANCE_WAXPBUSD_1h.csv
+Found 7665 data points
+Date of first data point 2021-08-23 06:00:00
+Date of last data point 2022-07-08 16:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 2 missing data points (0.03% of the data is missing)
+7667 data points successfully written to data/BINANCE_WAXPBUSD_1h.csv
+
+
+Loading file: data/BINANCE_SSVBUSD_1h.csv
+Found 365 data points
+Date of first data point 2022-08-19 08:00:00
+Date of last data point 2022-09-03 12:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+365 data points successfully written to data/BINANCE_SSVBUSD_1h.csv
+
+
+Loading file: data/BINANCE_CKBBUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8766 data points successfully written to data/BINANCE_CKBBUSD_1h.csv
+
+
+Loading file: data/BINANCE_LUNABUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-06 01:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 122 missing data points (1.37% of the data is missing)
+8882 data points successfully written to data/BINANCE_LUNABUSD_1h.csv
+
+
+Loading file: data/BINANCE_OPBUSD_1h.csv
+Found 730 data points
+Date of first data point 2022-06-01 08:00:00
+Date of last data point 2022-07-01 17:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+730 data points successfully written to data/BINANCE_OPBUSD_1h.csv
+
+
+Loading file: data/BINANCE_SKLBUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8766 data points successfully written to data/BINANCE_SKLBUSD_1h.csv
+
+
+Loading file: data/BINANCE_ICPBUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8766 data points successfully written to data/BINANCE_ICPBUSD_1h.csv
+
+
+Loading file: data/BINANCE_NEARBUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8766 data points successfully written to data/BINANCE_NEARBUSD_1h.csv
+
+
+Loading file: data/BINANCE_ROSEBUSD_1h.csv
+Found 8760 data points
+Date of first data point 2021-07-01 00:00:00
+Date of last data point 2022-07-01 05:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 6 missing data points (0.07% of the data is missing)
+8766 data points successfully written to data/BINANCE_ROSEBUSD_1h.csv
+
+
+Loading file: data/BINANCE_CELOBUSD_1h.csv
+Found 6205 data points
+Date of first data point 2021-10-29 10:00:00
+Date of last data point 2022-07-14 22:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+6205 data points successfully written to data/BINANCE_CELOBUSD_1h.csv
+
+

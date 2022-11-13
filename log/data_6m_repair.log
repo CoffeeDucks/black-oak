@@ -1,0 +1,56 @@
+Given path data/ is a directory. Found 6 files.
+
+Loading file: data/BINANCE_FLOWBUSD_1h.csv
+Found 4380 data points
+Date of first data point 2022-01-01 00:00:00
+Date of last data point 2022-07-02 11:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+4380 data points successfully written to data/BINANCE_FLOWBUSD_1h.csv
+
+
+Loading file: data/BINANCE_XECBUSD_1h.csv
+Found 4380 data points
+Date of first data point 2022-01-01 00:00:00
+Date of last data point 2022-07-02 11:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+4380 data points successfully written to data/BINANCE_XECBUSD_1h.csv
+
+
+
+Loading file: data/BINANCE_QNTBUSD_1h.csv
+Found 4380 data points
+Date of first data point 2022-01-01 00:00:00
+Date of last data point 2022-07-02 11:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+4380 data points successfully written to data/BINANCE_QNTBUSD_1h.csv
+
+---- not enough
+Loading file: data/BINANCE_WBTCBUSD_1h.csv
+Found 365 data points
+Date of first data point 2022-06-24 10:00:00
+Date of last data point 2022-07-09 14:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+365 data points successfully written to data/BINANCE_WBTCBUSD_1h.csv
+
+
+Loading file: data/BINANCE_LUNCBUSD_1h.csv
+Found 1095 data points
+Date of first data point 2022-05-30 09:00:00
+Date of last data point 2022-07-14 23:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+1095 data points successfully written to data/BINANCE_LUNCBUSD_1h.csv
+
+
+Loading file: data/BINANCE_APEBUSD_1h.csv
+Found 2555 data points
+Date of first data point 2022-03-17 14:00:00
+Date of last data point 2022-07-02 00:00:00
+Detected resolution: 1 Hour (3600000 milliseconds)
+Found 0 missing data points (0.0% of the data is missing)
+2555 data points successfully written to data/BINANCE_APEBUSD_1h.csv
+
