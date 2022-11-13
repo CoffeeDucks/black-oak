@@ -1,8 +1,10 @@
 oak-ohlcv.iml
 .idea
-data/*
+# data/*
+# data[_a-z0-9]*/*
 !data/.gitkeep
-
+# log/*
 # pytest
 .pytest_cache
-
+# Ipynb/*
+toml/*
